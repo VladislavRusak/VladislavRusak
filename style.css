@@ -3,3 +3,9 @@ header {
     height: 70px;
     background-color: burlywood;
 }
+
+section {
+    width: 80%;
+    height: auto;
+    background-color: aquamarine;
+}
